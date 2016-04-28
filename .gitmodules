@@ -1,3 +1,4 @@
 [submodule "at_work_central_factory_hub_comm"]
 	path = at_work_central_factory_hub_comm
-	url = https://github.com/rockin-robot-challenge/at_work_central_factory_hub_comm.git
+    url = https://github.com/moriarty/at_work_central_factory_hub_comm.git
+    branch = robocup-refbox-dev
